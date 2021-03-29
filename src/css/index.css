@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+* {
+  margin: 0;
+  font-family: "Quicksand";
+  color: #333;
+}
+
+.navbar {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  max-width: 800px;
+  margin: 0 auto;
+  border-bottom: 1px solid #2354B0;
+}
+
+.navbar h1 {
+  color: #24DBCA;
+}
+
+.navbar .links {
+  margin-left: auto;
+}
+
+.navbar a {
+  margin-left: 20px;
+  text-decoration: none;
+  padding: 12px;
+  background-color: #24DBCA;
+  border-radius: 10px;
+  color: #fff;
+  transition: 0.7s;
+}
+
+.navbar a:hover {
+  background-color: #2354B0;
+}
+
+.create button:hover, .blog-details button:hover {
+  background-color: #24DBCA;
+}
+
+.content {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+.blog-preview {
+  padding: 10px 16px;
+  margin: 20px 0;
+  border-bottom: 1px solid #2354B0;
+}
+
+.blog-preview:hover {
+  box-shadow: 2px 2px 2px #2354B0;
+}
+
+.blog-preview h2 {
+  font-size: 20px;
+  color: #24DBCA;
+  margin-bottom: 8px;
+}
+
+.blog-preview h2, a{
+  text-decoration: none;
+}
+
+.blog-details h2 {
+  font-size: 20px;
+  color: #24DBCA;
+  margin-bottom: 10px;
+}
+
+.blog-details p {
+  padding-bottom: 10px;
+  border-bottom: 1px solid #2354B0;
+}
+
+.blog-details div {
+  margin: 20px 0;
+  overflow-wrap: break-word;
+}
+
+.blog-details button {
+  background: #24DBCA;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.create {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.create label {
+  text-align: left;
+  display: block;
+}
+
+.create h2 {
+  font-size: 20px;
+  color: #2354B0;
+  margin-bottom: 30px;
+}
+
+.create input, .create textarea {
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  display: block;
+  resize: none;
+}
+
+.create textarea {
+  height: 200px;
+}
+
+.create button {
+  background: #2354B0;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-top: 40px;
+  transition: 0.7s;
+  padding: 16px;
+}
+
+label {
+  margin-top: 30px;
+}
+
+.blog-details button {
+  background: #2354B0;
+  color: #fff;
+  border: 0;
+  padding: 16px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: 0.7s;
+}

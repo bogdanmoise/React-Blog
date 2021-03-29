@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Hello",
+      "author": "Bogdan",
+      "body": "This is my first Blog.\nWikipedia article about the Suez Canal:\nThe Suez Canal (Arabic: قناة السويس‎ qanāt as-suwēs) is an artificial sea-level waterway in Egypt, connecting the Mediterranean Sea to the Red Sea through the Isthmus of Suez and dividing Africa and Asia. Constructed between 1859 and 1869 by the Suez Canal Company formed by Ferdinand de Lesseps in 1858, it officially opened on 17 November 1869. The canal offers watercraft a more direct route between the North Atlantic and northern Indian oceans via the Mediterranean Sea and the Red Sea, thus avoiding the South Atlantic and southern Indian oceans and reducing the journey distance from the Arabian Sea to London by approximately 8,900 kilometres (5,500 mi), or 8-10 days.[1] It extends from the northern terminus of Port Said to the southern terminus of Port Tewfik at the city of Suez. Its length is 193.30 km (120.11 mi) including its northern and southern access-channels. In 2020, over 18,500 vessels traversed the canal (an average of 51.5 per day).[2]",
+      "id": 1
+    },
+    {
+      "title": "aaaaa",
+      "author": "aaaaaaaaaa",
+      "body": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "id": 2
+    },
+    {
+      "title": "Heeelllooooooooooooo",
+      "author": "Still me",
+      "body": "My 2nd post \nThis one is about penguins:\nEnjoy :O\nPenguins (order Sphenisciformes /sfɪˈnɪsɪfɔːrmiːz/, family Spheniscidae /sfɪˈnɪsɪdiː/) are a group of aquatic flightless birds. They live almost exclusively in the Southern Hemisphere, with only one species, the Galápagos penguin, found north of the Equator. Highly adapted for life in the water, penguins have countershaded dark and white plumage and flippers for swimming. Most penguins feed on krill, fish, squid and other forms of sea life which they catch while swimming underwater. They spend roughly half of their lives on land and the other half in the sea.\n\nAlthough almost all penguin species are native to the Southern Hemisphere, they are not found only in cold climates, such as Antarctica. In fact, only a few species of penguin live so far south. Several species are found in the temperate zone, but one species, the Galápagos penguin, lives near the Equator.",
+      "id": 3
+    }
+  ]
+}
